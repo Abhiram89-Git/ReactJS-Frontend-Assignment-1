@@ -1,6 +1,5 @@
-Here we provide the instructions for developing two ReactJS applications, to test the proficiency of applicants for the ReactJS Frontend Developer position(s):
+Here we provide the instructions for developing ReactJS application, to test the proficiency of applicants for the ReactJS Frontend Developer position(s):
 Assignment 1: For applicants who have just learned React and have minimal to no experience in developing application using React.
-Assignment 2: For applicants who have a good working knowledge of React and have worked on / developed at least one React application
 All applicants are required to submit both assignments based on their knowledge, experience and confidence in ReactJS. 
 Prerequisites
 Knowledge of ReactJS (obviously), HTML, CSS, Bootstrap (optional, but will be really helpful for Assignment 1)
